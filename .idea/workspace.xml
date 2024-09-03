@@ -5,35 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6981517-0440-4b27-b2dd-d00c10e0c893" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_09_02_POO.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/modelo/Campos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/modelo/Cuadrado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/modelo/Cuenta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/modelo/CuentaLimite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/modelo/CuentaMovimientos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/modelo/Empleado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/modelo/Figura.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/modelo/Gerente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/modelo/Movimientos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/modelo/Operador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/modelo/Punto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/modelo/Punto3D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/modelo/Saludo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/modelo/Tablas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/modelo/Triangulo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/modelo/Vendedor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/ProbarBanco.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/ProbarCampos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/ProbarEstructuraEmpleado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/ProbarPuntos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/ProbarSaludo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/ProbarTablas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/modelo/ejemplo10/EdadDemasiadoMayorException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/modelo/ejemplo10/EdadException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/modelo/ejemplo10/EdadIncorrectaException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/modelo/ejemplo10/EdadInsuficienteException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/modelo/ejemplo10/EdadNegativaException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/modelo/ejemplo10/MalFormatoEdadException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/modelo/ejemplo8/Producto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/modelo/ejemplo8/ProductoException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/modelo/ejemplo9/Calculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/MontanaRusa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/excepciones/ProbarCalculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/excepciones/ProbarExcepcion1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/presentacion/excepciones/ProbarExcepciónProducto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,9 +35,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2lVT5lXtiU9CNgsgwURJv6NUw8N" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -61,9 +46,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.MontanaRusa.executor": "Run",
     "Application.ProbarBanco.executor": "Run",
     "Application.ProbarCampos.executor": "Run",
     "Application.ProbarEstructuraEmpleado.executor": "Run",
+    "Application.ProbarExcepcion1.executor": "Run",
+    "Application.ProbarExcepciónProducto.executor": "Run",
     "Application.ProbarPuntos.executor": "Run",
     "Application.ProbarSaludo.executor": "Run",
     "Application.ProbarTablas.executor": "Run",
@@ -71,16 +59,36 @@
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/ggp20/Documents/Cursos2024/IFCT0609-CoreNetworks-2024/Proyectos/_09_02_POO/src/com/corenetworks/presentacion",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "configurable.group.appearance"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\ggp20\Documents\Cursos2024\IFCT0609-CoreNetworks-2024\Proyectos\_09_02_POO\src\com\corenetworks\presentacion" />
-      <recent name="C:\Users\ggp20\Documents\Cursos2024\IFCT0609-CoreNetworks-2024\Proyectos\_09_02_POO\src\com\corenetworks\modelo" />
+      <recent name="C:\Users\ggp20\Documents\Cursos2024\IFCT0609-CoreNetworks-2024\Proyectos\_09_02_POO\src\com\corenetworks\modelo\ejemplo10" />
+      <recent name="C:\Users\ggp20\Documents\Cursos2024\IFCT0609-CoreNetworks-2024\Proyectos\_09_02_POO\src\com\corenetworks\modelo\ejemplo9" />
+      <recent name="C:\Users\ggp20\Documents\Cursos2024\IFCT0609-CoreNetworks-2024\Proyectos\_09_02_POO\src\com\corenetworks\modelo\ejemplo8" />
+      <recent name="C:\Users\ggp20\Documents\Cursos2024\IFCT0609-CoreNetworks-2024\Proyectos\_09_02_POO\src\com\corenetworks\modelo\ejemplo6" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ProbarBanco">
+  <component name="RunManager" selected="Application.MontanaRusa">
+    <configuration name="MontanaRusa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.corenetworks.presentacion.MontanaRusa" />
+      <module name="_09_02_POO" />
+      <option name="PROGRAM_PARAMETERS" value="13 12 15 20 -10 -20 -35 89 12 a" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.corenetworks.presentacion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ProbarBanco" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.corenetworks.presentacion.ProbarBanco" />
       <module name="_09_02_POO" />
@@ -107,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProbarPuntos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.corenetworks.presentacion.ProbarPuntos" />
+    <configuration name="ProbarExcepcion1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.corenetworks.presentacion.excepciones.ProbarExcepcion1" />
       <module name="_09_02_POO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.corenetworks.presentacion.*" />
+          <option name="PATTERN" value="com.corenetworks.presentacion.excepciones.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +128,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProbarSaludo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.corenetworks.presentacion.ProbarSaludo" />
+    <configuration name="ProbarExcepciónProducto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.corenetworks.presentacion.excepciones.ProbarExcepciónProducto" />
       <module name="_09_02_POO" />
+      <option name="PROGRAM_PARAMETERS" value="18 25 12 13 18 25 35 89 12 a" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.corenetworks.presentacion.*" />
+          <option name="PATTERN" value="com.corenetworks.presentacion.excepciones.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,26 +142,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProbarTablas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.corenetworks.presentacion.ProbarTablas" />
-      <module name="_09_02_POO" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.corenetworks.presentacion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+    <list>
+      <item itemvalue="Application.MontanaRusa" />
+      <item itemvalue="Application.ProbarBanco" />
+      <item itemvalue="Application.ProbarEstructuraEmpleado" />
+      <item itemvalue="Application.ProbarExcepcion1" />
+      <item itemvalue="Application.ProbarExcepciónProducto" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MontanaRusa" />
+        <item itemvalue="Application.ProbarExcepciónProducto" />
+        <item itemvalue="Application.ProbarExcepcion1" />
         <item itemvalue="Application.ProbarBanco" />
         <item itemvalue="Application.ProbarEstructuraEmpleado" />
-        <item itemvalue="Application.ProbarPuntos" />
-        <item itemvalue="Application.ProbarTablas" />
-        <item itemvalue="Application.ProbarSaludo" />
       </list>
     </recent_temporary>
   </component>
